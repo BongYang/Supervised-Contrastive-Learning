@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 
 # others
+data/*
+*.jpg
+*,png
+
 *.ipynb
